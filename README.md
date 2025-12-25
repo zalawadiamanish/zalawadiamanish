@@ -22,7 +22,7 @@
 
 ## 🎓 About Me
 
-🔹 Assistant Professor with **5+ years of teaching experience** in Computer Science & IT  
+🔹 Assistant Professor with **10+ years of teaching experience** in Computer Science & IT  
 🔹 Specialized in **Computer Programming, Microprocessors, Digital Systems, and Data Analytics**  
 🔹 Actively involved in **academic mentoring, project guidance, and applied research**  
 🔹 Passionate about integrating **theory with practical, industry-oriented learning**
