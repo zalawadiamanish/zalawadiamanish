@@ -3,7 +3,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub Logo"/>
 </p>
 
-#                                                                                      👋 Hi, I’m Prof. Manish Zalawadia
+#  <p align="center">                                                                                    👋 Hi, I’m Prof. Manish Zalawadia </p>
 
 <!-- Professional Typing Banner -->
 <p align="center">
